@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Alke Walet2</string>
+    <string name="logea">logea y comienza a transferir</string>
+    <string name="email">Email</string>
+    <string name="addemail">Ingresa tu email</string>
+    <string name="contracena">contraseña</string>
+    <string name="addpass">Ingresa tu contraseña</string>
+    <string name="inicio">Inicio</string>
+    <string name="registrarse_y_empezar_a_ransferir">Registrarse y \nempezar a ransferir</string>
+    <string name="nombre">Nombre</string>
+    <string name="ingresa_tu_nombre">Ingresa tu Nombre</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_request_money">RequestMoneyActivity</string>
+    <string name="ingresar_dinero">Ingresar Dinero</string>
+    <string name="reem_khaled">Reem Khaled</string>
+    <string name="reem_1993_gmail_com">reem_1993@gmail.com</string>
+    <string name="cantidad_a_ingreesar">Cantidad a ingreesar</string>
+    <string name="notas_de_transferencia">Notas de transferencia</string>
+    <string name="_20_00">20.00</string>
+    <string name="agregar_notas_de_transferencia_opcional">Agregar notas de transferencia (opcional)</string>
+    <string name="enviar_dinero">Enviar dinero</string>
+    <string name="yara_khalil_gmail_com">yara_khalil@gmail.com</string>
+    <string name="yara_khalil">Yara Khalil</string>
+    <string name="cantidad_a_transferir">Cantidad a transferir</string>
+    <string name="usertest">Nombre de Usuario</string>
+    <string name="usertestemail">Email de usuario</string>
+    <string name="moneyadd">Money Add</string>
+    <string name="addmoney">Agregar Dinero</string>
+    <string name="sendmoney">Enviar Dinero</string>
+    <string name="registertittle">Registrate y \\nempieza a transferir</string>
+    <string name="name">Nombre</string>
+    <string name="addname">Ingresa tu nombre</string>
+    <string name="lastname">Apellido</string>
+    <string name="addlastname">Ingresa tu apellido</string>
+    <string name="pass">Contraseña</string>
+    <string name="pass2">Reingresa tu contraseña</string>
+    <string name="addaccount">Crear cuenta</string>
+    <string name="backtologin">Ya tienes cuenta?</string>
+</resources>
